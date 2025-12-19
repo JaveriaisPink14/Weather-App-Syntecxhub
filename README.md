@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ﻿# Weather-App-Syntecxhub
 =======
 ﻿# Weather-App-Syntecxhub
@@ -451,3 +451,4 @@ If you have any questions or issues, please open an issue on GitHub or contact t
 
 **Made with ❤️ by Syntecxhub**
 **Made with ❤️ by Syntecxhub**
+
