@@ -2,6 +2,7 @@
 ﻿# Weather-App-Syntecxhub
 =======
 ﻿# Weather-App-Syntecxhub
+ live demo : https://weather-app-syntecxhub-36j6.vercel.app/
  A full-stack weather application built with React (frontend) and Express.js (backend) that provides real-time weather information, 5-day forecasts, and search history tracking.
 
 ## 🌟 Features
@@ -451,5 +452,6 @@ If you have any questions or issues, please open an issue on GitHub or contact t
 
 **Made with ❤️ by Syntecxhub**
 **Made with ❤️ by Syntecxhub**
+
 
 
