@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ﻿# Weather-App-Syntecxhub
 =======
 ﻿# Weather-App-Syntecxhub
@@ -411,7 +411,7 @@ CREATE TABLE search_history (
 );
 ```
 
-## 🌐 Deployment
+##  Deployment
 
 ### Backend Deployment
 1. Set up environment variables on your hosting platform
@@ -426,7 +426,7 @@ CREATE TABLE search_history (
    ```
 2. Deploy the `build` folder to services like Netlify, Vercel, or GitHub Pages
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -434,24 +434,11 @@ CREATE TABLE search_history (
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the ISC License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- OpenWeatherMap for providing weather data API
-- React community for excellent documentation and tools
-- Express.js for the robust backend framework
-
-## 📞 Support
-
-If you have any questions or issues, please open an issue on GitHub or contact the maintainers.
-
----
 
 **Made with ❤️ by Syntecxhub**
 **Made with ❤️ by Syntecxhub**
+
 
 
 
